@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap') body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+
+header {
+    font-size: 70px;
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+    background-color: rgb(18, 17, 17);
+    text-align: center;
+    margin: auto;
+    border-top: 20px;
+    border-bottom: 20px;
+    border-left: 20px;
+    border-right: 20px;
+    text-shadow: 0px 6px 11px rgba(243, 237, 237, 0.72);
+
+}
+
+img {
+    background-color: coral;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 50%;
+    border: 20px solid #232121;
+    filter: sepia(100%);
+    -webkit-filter: sepia(100%);
+    -moz-filter: sepia(100%);
+
+}
+
+div {
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+    background-color: antiquewhite;
+    text-align: center;
+
+}
+
+.datos {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: red;
+    border-radius: 0px 200px 0px 200px;
+    -webkit-border-radius: 0px 200px 0px 200px;
+    -moz-border-radius: 0px 200px 0px 200px;
+    background: #ffab00;
+    background: linear-gradient(90deg,#ffab00 0%, #00ff00 80%);
+    background: -webkit-linear-gradient(90deg,#ffab00 0%, #00ff00 80%);
+    background: -moz-linear-gradient(90deg,#ffab00 0%, #00ff00 80%);
+}
+
+.series {
+    margin: auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    border-radius: 0px 200px 0px 200px;
+    -webkit-border-radius: 0px 200px 0px 200px;
+    -moz-border-radius: 0px 200px 0px 200px;
+}
+
+.peliculas {
+    margin: auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: violet;
+    border-radius: 0px 200px 0px 200px;
+    -webkit-border-radius: 0px 200px 0px 200px;
+    -moz-border-radius: 0px 200px 0px 200px;
+}
+
+footer {
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+
+form {
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+    font-size: 20px;
+    background-color: aliceblue;
+    text-align: center;
+    width: 410px;
+    height: 310px;
+    padding: 30px;
+}
